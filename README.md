@@ -1,0 +1,2 @@
+# degiskenler
+js ile yapıldı
